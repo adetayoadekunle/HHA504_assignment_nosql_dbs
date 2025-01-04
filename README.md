@@ -9,8 +9,8 @@
 
 ### MongoDB Atlas:
 #### Fake dataset loaded into MongoDB Atlas from Google Colab
-![MongoDB Atlas Start and Configure Databases Part 1](https://github.com/user-attachments/assets/d4efffd4-1c3f-4292-97af-325eb68d0834)
-![MongoDB Atlas Start and Configure Databases Part 2](https://github.com/user-attachments/assets/f95cc483-cab9-499d-b576-9691cf85bfde)
+![MongoDB Atlas Start and Configure Databases Part 1](https://github.com/user-attachments/assets/66182608-b72c-47c3-8e42-6457220badb5)
+![MongoDB Atlas Start and Configure Databases Part 2](https://github.com/user-attachments/assets/2d3a8adc-c73e-4b66-98cf-40408741517e)
 ![MongoDB Atlas Start and Configure Databases Part 3](https://github.com/user-attachments/assets/a2601a4f-602e-488e-b87d-8894ef9594ed)
 ![MongoDB Atlas Start and Configure Databases Part 4](https://github.com/user-attachments/assets/b2b3b725-bb3e-4006-b65e-d486f05a7f2c)
 
